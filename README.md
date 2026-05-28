@@ -1,1 +1,1 @@
-please help me put shell scripts
+script stuff for class
